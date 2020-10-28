@@ -4,7 +4,7 @@ My name is Oren Halevy. I am a graduate of BGU with a bachelor degree in Compute
 
 ## Projects
 
-I currently don't have projects on my GitHub but I am working on a game using Unreal Engine in c++.
+I am working on a game using Unreal Engine in c++.
 <!--
 **halevyoren/halevyoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
