@@ -2,9 +2,11 @@
 
 My name is Oren Halevy. I am a graduate of BGU with a bachelor degree in Computer Sience.
 
-## Projects
+## I am currently working on
+I am currently working on a game using Unreal Engine in c++.
 
-I am working on a game using Unreal Engine in c++.
+## 💬
+you can email me here, you can also contact me with my LinkedIn here.
 <!--
 **halevyoren/halevyoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
