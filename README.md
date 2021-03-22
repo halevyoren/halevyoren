@@ -3,7 +3,7 @@
 My name is Oren Halevy. I am a graduate of BGU with a bachelor degree in Computer Sience.
 
 ## I am currently working on
-I am currently working on a game using Unreal Engine in c++.
+I am currently working on a Full Stack website
 
 ## 💬 Contact information
 you can email me [here](mailto:halevyoren@gmail.com), you can also contact me with my LinkedIn [here](https://www.linkedin.com/in/halevyoren).
